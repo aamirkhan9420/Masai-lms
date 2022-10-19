@@ -22,5 +22,5 @@ if you signup as admin then you can add and remove the lectures and assigments f
 - CSS
 - JavaScript
 -Bootstrap
-# Authors
+<h1>Author</h1> 
 - @Aamir Khan
