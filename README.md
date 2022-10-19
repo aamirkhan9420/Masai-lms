@@ -16,4 +16,4 @@ if you signup as admin then you can add and remove the lectures and assigments f
 ![Screenshot (1560)](https://user-images.githubusercontent.com/101388992/196688200-7d024176-7541-4f7a-9b93-a7a837f74784.png)
 ![Screenshot (1561)](https://user-images.githubusercontent.com/101388992/196688228-866ae64d-4e4d-42c4-a1cd-3ff211c0b67d.png)
 ![Screenshot (1564)](https://user-images.githubusercontent.com/101388992/196688248-6a285173-5187-4539-9d7b-61ece70028a1.png)
-![Screenshot (1206)](https://user-images.githubusercontent.com/101388992/196688261-c83ee12d-8d4b-46e7-a6dc-6b7023c11833.png)
+![Screenshot (1206)](https://user-images.githubusercontent.com/101388992/196688627-a0a216c1-e3f7-422f-8534-c2fe9e69fd45.png)
